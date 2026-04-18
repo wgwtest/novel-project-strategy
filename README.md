@@ -1,5 +1,7 @@
 # Novel Project Strategy
 
+[![Novel Project Strategy social preview](assets/social-preview.png)](https://github.com/wgwtest/novel-project-strategy)
+
 [![GitHub stars](https://img.shields.io/github/stars/wgwtest/novel-project-strategy?style=social)](https://github.com/wgwtest/novel-project-strategy/stargazers)
 [![GitHub release](https://img.shields.io/github/v/release/wgwtest/novel-project-strategy)](https://github.com/wgwtest/novel-project-strategy/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
