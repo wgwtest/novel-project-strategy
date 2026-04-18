@@ -1,0 +1,7 @@
+interface:
+  display_name: "Novel Project Strategy"
+  short_description: "Longform fiction workflow and recovery governance"
+  default_prompt: "Use $novel-project-strategy to align this novel project to a stable longform workflow and recovery process."
+
+policy:
+  allow_implicit_invocation: true
